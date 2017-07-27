@@ -5,6 +5,8 @@ Hope everything will be better.
 ## Some Settings ##
 
 ### Android Stuido & IntelliJ IDEA ###
+**1.KyleLN** (tried for two days and my eyes are tired)
+
 Appearance theme ***Darcula***.
 
 Colors & Fonts Scheme [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddacef1b003edb63).
@@ -15,3 +17,9 @@ Android Logcat Scheme [HOLO logcat](https://meedamian.com/post/deuglifying-andro
 
 
 *Exported as the KyleLN.jar.*
+
+
+**2.KyleGreen**
+
+*Exported as the KyleGreen.jar.*
+
