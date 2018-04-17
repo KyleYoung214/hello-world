@@ -35,3 +35,6 @@ git fetch
 git push
 
 git pull
+
+.ignore 失效 
+>git rm -r --cached . 清除缓存后再提交
