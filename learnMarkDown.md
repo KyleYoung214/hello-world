@@ -95,11 +95,11 @@ content__粗体双下划綫__content
 
 ---
 
-![两仪式](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561783523008&di=8880c1971da101938fa90a1ae57f5947&imgtype=0&src=http%3A%2F%2Fimg5q.duitang.com%2Fuploads%2Fitem%2F201307%2F11%2F20130711201814_fUsUe.thumb.700_0.jpeg "猫式")
+![两仪式](https://raw.githubusercontent.com/KyleYoung214/hello-world/master/pic/shiki.png "猫式")
 
 ---
 
-[![北斋](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561783964439&di=e46108859ad1603598b626cc873683af&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F382920221c5d190c4fd650835a32efa50c5383be.jpg "北斋FA高难")](https://www.bilibili.com/video/av55294824 "FGO国服FA倍卡阿荣高难2T")
+[![北斋](https://raw.githubusercontent.com/KyleYoung214/hello-world/master/pic/fgoFA.png)](https://www.bilibili.com/video/av55294824 "FGO国服FA倍卡阿荣高难2T")
 
 
 表格显示
