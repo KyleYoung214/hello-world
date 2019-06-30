@@ -3,7 +3,7 @@
 ### title 3
 #### title 4
 ##### title 5
-######title 6
+###### title 6
 
 
 title H1（这种方式更好看一些吧）
@@ -57,7 +57,7 @@ content*斜体字单星号*content
 content_斜体字单下划线_content
 
 content**粗体双型号**content  
-content__粗体双下划綫__content
+content__粗体双下划线__content
 
 列表符号
 > * - + 都一样
@@ -81,7 +81,6 @@ content__粗体双下划綫__content
 <https://www.bilibili.com/video/av55622907> 尖括号表示链接
 
 [csgo 白银5杀](https://www.bilibili.com/video/av57169977)
-
 
 [FGO](https://www.bilibili.com/video/av55294824 "FGO国服FA倍卡阿荣高难2T")
 
