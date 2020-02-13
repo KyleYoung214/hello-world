@@ -1,3 +1,8 @@
++ gitdir=$(git rev-parse --git-dir); scp -p -P 29418 yangkai8@gerrit.mitvos.com:hooks/commit-msg ${gitdir}/hooks/
++ git push origin HEAD:refs/for/master
+
+---
+
 + git commit
 + commit --amend
 
